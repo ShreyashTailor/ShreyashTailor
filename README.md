@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **backend**
 
-- 👨‍💻 All of my projects are available at [https://shreyash.ddns.net](https://shreyash.ddns.net)
+- 👨‍💻 All of my projects are available at [https://shreyash.ddns.net](https://shreyashcreations.me)
 
 - 📝 I regularly write articles on no where ;)
 
