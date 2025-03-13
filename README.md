@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://shreyash.ddns.net](https://shreyash.ddns.net)
 
-- 📝 I regularly write articles on [no where ;)](no where ;))
+- 📝 I regularly write articles on no where ;)
 
 - 💬 Ask me about **python, frontend**
 
