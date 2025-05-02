@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=8562d0&size=35&center=true&vCenter=true&width=1200&lines=Welcome+to+my+GitHub+profile!;My+name+is+Trix;I'm+a+Developer+as+well+as+a+Student;Passionate+about+coding+and+learning+new+technologies.;Exploring+the+world+of+software+development.;Always+eager+to+collaborate+on+exciting+projects!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=8562d0&size=35&center=true&vCenter=true&width=1200&lines=Welcome+to+my+GitHub+profile!;My+name+is+Shreyash;I'm+a+Developer+as+well+as+a+Student;Passionate+about+coding+and+learning+new+technologies.;Exploring+the+world+of+software+development.;Always+eager+to+collaborate+on+exciting+projects!)
 <br clear="both">
 
 <h2 align="center">Hi 👋! My name is Shreyash Tailor and I'm a Developer and I use <br>Arch Btw.</h2>
