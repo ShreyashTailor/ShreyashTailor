@@ -143,7 +143,7 @@
 ###
 
 <div align="right">
-  <img height="200" src="https://i.postimg.cc/26Md5h83/d-removebg-preview.png"  />
+  <img height="150" src="https://i.postimg.cc/26Md5h83/d-removebg-preview.png"  />
 </div>
 
 ###
