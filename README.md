@@ -138,7 +138,7 @@
 
 ###
 
-<img align="right" height="275" src="https://i.postimg.cc/X7HjBL62/maxresdefault.jpg"  />
+<img align="center" height="275" src="https://i.postimg.cc/X7HjBL62/maxresdefault.jpg"  />
 
 ###
 
@@ -150,13 +150,9 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ShreyashTailor/ShreyashTailor/output/snake.svg" alt="Snake animation" />
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/ShreyashTailor/count.svg?"  />
-</div>
 
 ###
 
@@ -171,5 +167,20 @@
 <br clear="both">
 
 <h1 align="center">Oh and btw, I use Arch :D</h1>
+
+
+
+## Contact me:
+<!-- <div> -->
+<a href="https://shreyash.pages.dev" target="_blank"><img loading="lazy" src="https://skillicons.dev/icons?i=ros" target="_blank"></a>
+<a href="https://discord.dog/724289325747142657" target="_blank"><img loading="lazy" src="https://skillicons.dev/icons?i=discord" target="_blank"></a>
+<a href = "mailto:shreyashop007@proton.me"><img loading="lazy" src="https://skillicons.dev/icons?i=gmail" target="_blank"></a>
+  
+</div>
+
+
+------
+
+Last Edited on: 02/05/2025
 
 ###
