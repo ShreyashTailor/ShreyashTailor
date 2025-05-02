@@ -20,7 +20,7 @@
 <p align="center">I use Arch(btw)</p>
 
 <center>
-  [![GitHub Streak](https://github-readme-streak-stats-two-ruddy.vercel.app?user=ShreyashTailor&theme=tokyonight-duo&short_numbers=true)](https://git.io/streak-stats)
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-two-ruddy.vercel.app?user=ShreyashTailor&theme=tokyonight-duo&short_numbers=true" alt="GitHub Streak" /></a>
 </center>
 
 ###
