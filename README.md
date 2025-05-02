@@ -1,6 +1,11 @@
 <br clear="both">
 
 <h2 align="center">Hi 👋! My name is Shreyash Tailor and I'm a Developer and I use <br>Arch Btw.</h2>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=8562d0&size=35&center=true&vCenter=true&width=1200&lines=Welcome+to+my+GitHub+profile!;My+name+is+Trix;I'm+a+Developer+as+well+as+a+Student;Passionate+about+coding+and+learning+new+technologies.;Exploring+the+world+of+software+development.;Always+eager+to+collaborate+on+exciting+projects!)
+
+<h3 align="center">"Only wimps use tape backup. REAL men just upload their important stuff on ftp and let the rest of the world mirror it."</h3>
+<h4 align="center">- Linus Torvalds -</h4>
+
 
 ###
 
@@ -92,6 +97,10 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="30" alt="kubernetes logo"  />
 </div>
+
+
+
+
 
 ###
 
