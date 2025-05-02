@@ -138,12 +138,12 @@
 
 ###
 
-<img align="left" height="200" src="https://i.postimg.cc/X7HjBL62/maxresdefault.jpg"  />
+<img align="left" height="250" src="https://i.postimg.cc/X7HjBL62/maxresdefault.jpg"  />
 
 ###
 
 <div align="right">
-  <img height="150" src="https://i.postimg.cc/26Md5h83/d-removebg-preview.png"  />
+  <img height="250" src="https://i.postimg.cc/26Md5h83/d-removebg-preview.png"  />
 </div>
 
 ###
