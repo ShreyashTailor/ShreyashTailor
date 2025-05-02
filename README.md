@@ -15,7 +15,7 @@
   <img alt="Currently playing" src="https://api.statusbadges.me/badge/playing/724289325747142657?label=Playing">
   <img alt="Currently coding" src="https://api.statusbadges.me/badge/vscode/724289325747142657?label=Coding">
   <a href="https://api.statusbadges.me/badge/spotify/724289325747142657" target="_blank" rel="noopener">
-      <img alt="Currently listening to" src="https://api.statusbadges.me/badge/spotify/885063317079592961?label=Listening%20to">
+      <img alt="Currently listening to" src="https://api.statusbadges.me/badge/spotify/724289325747142657?label=Listening%20to">
   </a><br>
 <p align="center">I use Arch(btw)</p>
 
