@@ -4,7 +4,7 @@
 <h2 align="center">Hi 👋! My name is Shreyash Tailor and I'm a Developer and I use <br>Arch Btw.</h2>
 
 
-<h3 align="center">"Only wimps use tape backup. REAL men just upload their important stuff on ftp and let the rest of the world mirror it."</h3>
+<h3 align="center">"Only wimps use tape backup. REAL men just upload their important stuff on FTP and let the rest of the world mirror it."</h3>
 <h4 align="center">- Linus Torvalds -</h4>
 
 
