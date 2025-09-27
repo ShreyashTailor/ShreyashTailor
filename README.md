@@ -17,7 +17,7 @@
   <a href="https://api.statusbadges.me/badge/spotify/724289325747142657" target="_blank" rel="noopener">
       <img alt="Currently listening to" src="https://api.statusbadges.me/badge/spotify/724289325747142657?label=Listening%20to">
   </a><br>
-<p align="center">I use Arch(btw)</p>
+<p align="center">I used Arch(btw)</p>
 
 <center>
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-two-ruddy.vercel.app?user=ShreyashTailor&theme=tokyonight-duo&short_numbers=true" alt="GitHub Streak" /></a>
