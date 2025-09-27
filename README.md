@@ -168,7 +168,7 @@
 
 <br clear="both">
 
-<h1 align="center">Oh and btw, I use Arch :D</h1>
+<h1 align="center">Oh and btw, I used Arch :D</h1>
 
 
 
